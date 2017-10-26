@@ -3,3 +3,5 @@ def using_times
 	  "Wingardum Leviosa"
 	end
 end
+
+using_times
