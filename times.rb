@@ -1,9 +1,5 @@
 def using_times
-	times.do 7
+	7.times
 	  "Wingardum Leviosa"
 	end
 end
-
-
-
-
